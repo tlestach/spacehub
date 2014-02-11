@@ -7,4 +7,4 @@ def and_here_is_my_new_code():
     pass
 
 def best_function_ever():
-    print "I am shark!"
+    print "I am mighty shark!"
