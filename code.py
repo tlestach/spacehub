@@ -1,4 +1,4 @@
-#!python
+#!/usr/bin/env python
 
 # here comes a python code
 
