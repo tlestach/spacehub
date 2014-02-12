@@ -14,3 +14,6 @@ def rfe1():
 
 def rfe2():
     "implemented feature 2"
+
+def rfe3():
+    "implemented feature 3"
