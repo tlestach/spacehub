@@ -12,3 +12,6 @@ def best_function_ever():
 
 def rfe1():
     "implemented feature 1"
+
+def rfe2():
+    "implemented feature 2"
