@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # Here comes a python code.
+# comment
 
 def and_here_is_my_new_code():
     """ added from web page"""
@@ -11,5 +12,14 @@ def best_function_ever():
 
 def function_with_argument(arg):
     "function with argument"
+
+def rfe1():
+    "implemented feature 1"
+
+def rfe2():
+    "implemented feature 2"
+
+def rfe3():
+    "top feature 3"
 
 # EOF
