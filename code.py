@@ -8,3 +8,6 @@ def and_here_is_my_new_code():
 
 def best_function_ever():
     print "I am mighty shark!"
+
+def rfe1():
+    "implemented feature 1"
