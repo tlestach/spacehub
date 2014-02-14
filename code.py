@@ -24,5 +24,6 @@ def rfe3():
 
 def new():
     "another code"
+    "second line"
 
 # EOF
