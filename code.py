@@ -22,4 +22,7 @@ def rfe2():
 def rfe3():
     "top feature 3"
 
+def new():
+    "another code"
+
 # EOF
