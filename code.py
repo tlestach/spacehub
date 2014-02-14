@@ -11,7 +11,7 @@ def best_function_ever():
     print "I am mighty shark!"
 
 def function_with_argument(arg):
-    "function with argument"
+    "function with argument 1"
 
 def rfe1():
     "implemented feature 1"
