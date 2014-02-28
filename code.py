@@ -2,6 +2,7 @@
 
 # Here comes a python code.
 # comment
+# we need more sharks
 
 def and_here_is_my_new_code():
     """ added from web page"""
